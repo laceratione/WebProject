@@ -1,0 +1,10 @@
+.main{
+    max-width: 600px;
+    height: 800px;
+    margin: auto;
+    background-color: #F5F5F5;
+}
+
+#elem{
+    text-align: center;
+}
